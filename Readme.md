@@ -28,6 +28,19 @@ Today, however, we are just going to dive right in.  We need to import some data
 
 ![](./desktop.png)
 
-This opens the Import tool which gives a preview of the spreadhset and a whole bunch of options we can select.  Everything seems OK with this very simple, two column spreadsheet so we'll not change any of the automatically detected options.  Instead we'll click on **Import Selection** and choose **Generate Live Script**
+This opens the Import tool which gives a preview of the spreadsheet and a whole bunch of options we can select.  Everything seems OK with this very simple, two column spreadsheet so we'll not change any of the automatically detected options.  Instead we'll click on **Import Selection** and choose **Generate Live Script**
 
 ![](./livescript_select.gif)
+
+The result is a [Live Script](https://uk.mathworks.com/help/matlab/live-scripts-and-functions.html) which combines text, code and results into one interactive document.  The code is commented and our report has begun.  We've done something useful, solved the blank-page problem and are on our way to solving the larger problem at hand.
+
+## Live tasks -- the art of coding without coding
+
+One of the first things anyone does after importing some data is plotting it.  As with importing, this is such a common task that MATLAB provides additional assistance for those who want it.
+
+Click on the part of the Live Script where you'd like to add your plotting code and then click on **Insert** -> **Task**
+
+You'll see a list of tasks that will vary according to which selection of MATLAB toolboxes you have installed.  Here I have tasks ranging from plotting and outlier removal included in base MATLAB through to more specialist things such as clustering and Audio Feature Extraction.  I choose the **create plot** task and the graphical user interface (GUI) is loaded where I want the code to appear.
+
+![](./plot_task.gif)
+Audio
