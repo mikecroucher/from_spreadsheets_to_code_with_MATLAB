@@ -24,6 +24,8 @@ There are few things more daunting to a new programmer than an empty command pro
 
 ![](./resources.PNG)
 
-Today, however, we are just going to dive right in.  We need to import some data so let's click on the import data tab.
+Today, however, we are just going to dive right in.  We need to import some data so let's click on the import data tab and select our spreadsheet.
 
 ![](./desktop.png)
+
+This opens the Import tool which gives a preview of the spreadhset and a whole bunch of options we can select.  Everything seems OK with this very simple, two column spreadsheet so we'll not change any of the automatically detected options.  Instead we'll click on **Import Selection** and choose **Generate Live Script**
