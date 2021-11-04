@@ -55,3 +55,25 @@ Finally, we generate editable code
 A little more editing of the live script to turn the code comment into a section title and we are done for now.
 
 ![](./final_plot.PNG)
+
+## Apps: For more complex workflows
+
+It's possible to do quite a lot of with Live Tasks and MathWorks are adding more features all the time.  It's possible to solve all of the problems set by our boss at the beginning of this post using nothing but Live Tasks.  Give it a try and compare your results with the solution I came up with here.
+
+TODO - Link to final livescript.
+
+Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as classification, Video labelling and Deep Learning Network design, MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
+
+TO DO: Links to individual apps mentioned above
+
+Alongside those produced by MathWorks there are many more open source apps built by the community, all just a few clicks away via the MATLAB Add-Ons button.
+
+TODO - IMAGE and link to open source apps
+
+## Training: Take your next steps
+
+Live tasks and apps can get you pretty far with solving your problems and learning to code by example but sooner or later you are going to need to learn the details.  MathWorks have you covered here as well with dozens of courses ranging from a 2 hour MATLAB on-ramp which teaches you the foundations right up to in depth courses on machine learning, reinforcement learning, image processing and many more.
+
+TO DO: Images and links
+
+If you are a member of one of the >2000 universities with a campus wide license, all of these training courses are freely available to you and many of the shorter OnRamps are available to everyone with a free MathWorks account. 
