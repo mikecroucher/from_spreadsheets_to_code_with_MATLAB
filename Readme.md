@@ -40,7 +40,14 @@ One of the first things anyone does after importing some data is plotting it.  A
 
 Click on the part of the Live Script where you'd like to add your plotting code and then click on **Insert** -> **Task**
 
-You'll see a list of tasks that will vary according to which selection of MATLAB toolboxes you have installed.  Here I have tasks ranging from plotting and outlier removal included in base MATLAB through to more specialist things such as clustering and Audio Feature Extraction.  I choose the **create plot** task and the graphical user interface (GUI) is loaded where I want the code to appear.
+You'll see a list of tasks that will vary according to which selection of MATLAB toolboxes you have installed.  Here I have tasks ranging from plotting and outlier removal included in base MATLAB through to more specialist things such as clustering and Audio Feature Extraction.  
 
 ![](./plot_task.gif)
-Audio
+
+I choose the **create plot** task and the graphical user interface (GUI) is loaded where I want the code to appear.  One of the great things about this task is that it shows the wide range of plot types available in MATLAB -- a great way of discovering what is possible.  Here, however, I am going to take the simple route and produce a basic plot
+
+![](./create_plot.gif)
+
+
+
+
