@@ -29,3 +29,5 @@ Today, however, we are just going to dive right in.  We need to import some data
 ![](./desktop.png)
 
 This opens the Import tool which gives a preview of the spreadhset and a whole bunch of options we can select.  Everything seems OK with this very simple, two column spreadsheet so we'll not change any of the automatically detected options.  Instead we'll click on **Import Selection** and choose **Generate Live Script**
+
+![](./livescript_select.gif)
