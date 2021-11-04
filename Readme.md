@@ -48,6 +48,10 @@ I choose the **create plot** task and the graphical user interface (GUI) is load
 
 ![](./create_plot.gif)
 
+Finally, we generate editable code
 
+![](./code_generate.gif)
 
+A little more editing of the live script to turn the code comment into a section title and we are done for now.
 
+![](./final_plot.PNG)
