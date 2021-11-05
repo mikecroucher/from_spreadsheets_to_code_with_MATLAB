@@ -20,7 +20,9 @@ The MATLAB ecosystem supports you at every level of your programming career, eve
 
 ## Importing the spreadsheet and generating our first Live Script
 
-There are few things more daunting to a new programmer than an empty command prompt and your mind may be full of questions.  Where can I find help?  How can I learn how to program in this language?  Is there anyone I can talk to to help me further, either from MathWorks support or the MATLAB user community?  With MATLAB, the answer to these questions are just a click away in the resources tab.
+There are few things more daunting to a new programmer than an empty command prompt and your mind may be full of questions.  Where can I find help?  How can I learn how to program in this language?  Is there anyone I can talk to to help me further, either from MathWorks support or the MATLAB user community?  
+
+With MATLAB, the answer to these questions are just a click away in the resources tab.
 
 ![](./resources.PNG)
 
@@ -60,7 +62,7 @@ A little more editing of the live script to turn the code comment into a section
 
 ## Apps: For more complex workflows
 
-It's possible to do quite a lot of with Live Tasks and MathWorks are adding more features all the time.  It's possible to solve all of the problems set by our boss at the beginning of this post using nothing but Live Tasks.  Give it a try and compare your results with the solution I came up with here.
+You can achieve quite a lot with Live Tasks and MathWorks are adding more features all the time.  Indeed, it's possible to solve all of the problems set by our boss at the beginning of this post using nothing but Live Tasks.  Give it a try and compare your results with the solution I came up with here.
 
 TODO - Link to final livescript.
 
