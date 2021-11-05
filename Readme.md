@@ -34,6 +34,8 @@ This opens the Import tool which gives a preview of the spreadsheet and a whole 
 
 The result is a [Live Script](https://uk.mathworks.com/help/matlab/live-scripts-and-functions.html) which combines text, code and results into one interactive document.  The code is commented and our report has begun.  We've done something useful, solved the blank-page problem and are on our way to solving the larger problem at hand.
 
+![](./live_script.PNG)
+
 ## Live tasks -- the art of coding without coding
 
 One of the first things anyone does after importing some data is plotting it.  As with importing, this is such a common task that MATLAB provides additional assistance for those who want it.
