@@ -20,7 +20,7 @@ The MATLAB ecosystem supports you at every level of your programming career, eve
 
 ## Importing the spreadsheet and generating our first Live Script
 
-There are few things more daunting to a new programmer than an empty command prompt and your mind may be full of questions.  Where can I find help?  How can I learn how to program in this language?  Is there anyone I can talk to to help me further, either from MathWorks support or the MATLAB user community?  
+There are few things more daunting to a new programmer than an empty command prompt and your mind may be full of questions.  Where can I find help?  How can I learn how to program in this language?  Is there anyone I can talk to to help me further, either from [MathWorks support](https://uk.mathworks.com/support.html) or the [MATLAB user community](https://uk.mathworks.com/matlabcentral/answers/index)?  
 
 With MATLAB, the answer to these questions are just a click away in the resources tab.
 
