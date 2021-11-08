@@ -10,7 +10,7 @@ You're going about your day in the lab, analysing and collecting data, writing p
 
 uh oh!
 
-# You have a problem that can be solved by coding, now you have two problems
+# "Just" Learn to code
 
 When someone has invested a lot of time into learning a computational tool, telling them that it is a bad tool and that they should do something else entirely is not necessarily helpful.  Even if you are right, all you've really done is given them a set of new problems.  In this case one of those new problems is **learn to code**.  
 
@@ -66,9 +66,7 @@ You can achieve quite a lot with Live Tasks and MathWorks are adding more featur
 
 TODO - Link to final livescript.
 
-Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as Classification, Video labelling and Deep Learning Network design, MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
-
-TO DO: Links to individual apps mentioned above
+Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as [Classification](https://uk.mathworks.com/help/stats/classificationlearner-app.html), [Video Labelling](https://uk.mathworks.com/help/vision/ref/videolabeler-app.html) and [Deep Learning Network design](https://uk.mathworks.com/help/deeplearning/ref/deepnetworkdesigner-app.html), MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
 
 Alongside those produced by MathWorks there are many more open source apps built by the community, all just a few clicks away via the MATLAB Add-Ons button.
 
