@@ -1,4 +1,4 @@
-# The art of coding without coding with MATLAB
+# The art of coding without coding with MATLAB Live tasks
 
 You're going about your day in the lab, analysing and collecting data, writing papers and drinking coffee when your PI sends you a message.
 
@@ -26,7 +26,7 @@ With MATLAB, the answer to these questions are just a click away in the resource
 
 ![](./resources.PNG)
 
-Today, however, we are just going to dive right in.  We need to import some data so let's click on the import data tab and select our spreadsheet.
+Today, however, we are just going to dive right in.  We need to import some data so let's click on the **Import Data** tab and select our spreadsheet.
 
 ![](./desktop.png)
 
@@ -44,15 +44,15 @@ One of the first things anyone does after importing some data is plotting it.  A
 
 Click on the part of the Live Script where you'd like to add your plotting code and then click on **Insert** -> **Task**
 
-You'll see a list of tasks that will vary according to which selection of MATLAB toolboxes you have installed.  Here I have tasks ranging from plotting and outlier removal included in base MATLAB through to more specialist things such as clustering and Audio Feature Extraction.  
+You'll see a list of tasks that will vary according to which selection of MATLAB toolboxes you have installed.  Here I have tasks ranging from plotting and outlier removal (included in base MATLAB) through to more specialist things such as clustering and Audio Feature Extraction whichh are part of additional toolboxes. 
 
 ![](./plot_task.gif)
 
-I choose the **create plot** task and the graphical user interface (GUI) is loaded where I want the code to appear.  One of the great things about this task is that it shows the wide range of plot types available in MATLAB -- a great way of discovering what is possible.  Here, however, I am going to take the simple route and produce a basic plot
+I choose the **Create Plot** task and the graphical user interface (GUI) is loaded where I want the code to appear.  One of the great things about this task is that it shows the wide range of plot types available in MATLAB -- a great way of discovering what is possible.  Here, however, I am going to take the simple route and produce a basic plot.
 
 ![](./create_plot.gif)
 
-Finally, we generate editable code
+Finally, we generate editable code:
 
 ![](./code_generate.gif)
 
@@ -66,7 +66,7 @@ You can achieve quite a lot with Live Tasks and MathWorks are adding more featur
 
 TODO - Link to final livescript.
 
-Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as classification, Video labelling and Deep Learning Network design, MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
+Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as Classification, Video labelling and Deep Learning Network design, MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
 
 TO DO: Links to individual apps mentioned above
 
@@ -76,7 +76,7 @@ TODO - IMAGE and link to open source apps
 
 ## Training: Take your next steps
 
-Live tasks and apps can get you pretty far with solving your problems and learning to code by example but sooner or later you are going to need to learn the details.  MathWorks have you covered here as well with dozens of courses ranging from a 2 hour MATLAB on-ramp which teaches you the foundations right up to in depth courses on machine learning, reinforcement learning, image processing and many more.
+Live Tasks and Apps can get you pretty far with solving your problems and learning to code by example but sooner or later you are going to need to learn the details.  MathWorks have you covered here as well with dozens of courses ranging from a 2 hour MATLAB on-ramp which teaches you the foundations right up to in depth courses on machine learning, reinforcement learning, image processing and many more.
 
 TO DO: Images and links
 
