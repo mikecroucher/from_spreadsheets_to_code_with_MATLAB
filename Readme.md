@@ -60,9 +60,11 @@ A little more editing of the live script to turn the code comment into a section
 
 ![](./final_plot.PNG)
 
-## Apps: For more complex workflows
-
 You can achieve quite a lot with Live Tasks and MathWorks are adding more features all the time.  Indeed, it's possible to solve all of the problems set by our boss at the beginning of this post using nothing but Live Tasks.  Give it a try and compare your results with the solution I came up with here.
+
+![](./example_tasks.PNG)
+
+## Apps: For more complex workflows
 
 TODO - Link to final livescript.
 
