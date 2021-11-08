@@ -70,9 +70,9 @@ You can achieve quite a lot with Live Tasks and MathWorks are adding more featur
 
 Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as [Classification](https://uk.mathworks.com/help/stats/classificationlearner-app.html), [Video Labelling](https://uk.mathworks.com/help/vision/ref/videolabeler-app.html) and [Deep Learning Network design](https://uk.mathworks.com/help/deeplearning/ref/deepnetworkdesigner-app.html), MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
 
-Alongside those produced by MathWorks there are many more open source apps built by the community, all just a few clicks away via the MATLAB Add-Ons button.
+Alongside those produced by MathWorks there are [many more open source apps built by the community](https://uk.mathworks.com/matlabcentral/fileexchange/?type%5B%5D=apps), all just a few clicks away via the MATLAB Add-Ons button.
 
-TODO - IMAGE and link to open source apps
+![](./mlapp_overview.png)
 
 ## Training: Take your next steps
 
