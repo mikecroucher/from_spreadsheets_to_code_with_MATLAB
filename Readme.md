@@ -74,7 +74,7 @@ Alongside those produced by MathWorks there are [many more open source apps buil
 
 ![](./mlapp_overview.png)
 
-## Training: Take your next steps
+## Training: Take your next steps in learning how to code
 
 Live Tasks and Apps can get you pretty far with solving your problems and learning to code by example but sooner or later you are going to need to learn the details.  MathWorks have you covered here as well with dozens of courses ranging from a [2 hour MATLAB on-ramp](./https://uk.mathworks.com/learn/tutorials/matlab-onramp.html) which teaches you the foundations right up to in depth courses on machine learning, reinforcement learning, image processing and many more.
 
