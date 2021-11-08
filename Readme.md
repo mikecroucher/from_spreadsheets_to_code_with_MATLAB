@@ -62,11 +62,11 @@ A little more editing of the live script to turn the code comment into a section
 
 You can achieve quite a lot with Live Tasks and MathWorks are adding more features all the time.  Indeed, it's possible to solve all of the problems set by our boss at the beginning of this post using nothing but Live Tasks.  Give it a try and compare your results with the solution I came up with here.
 
+* Solution Live script generated using Live Tasks: [Live Script](./live_tasks.mlx), [HTML version](./live_tasks.html)
+
 ![](./example_tasks.PNG)
 
 ## Apps: For more complex workflows
-
-TODO - Link to final livescript.
 
 Even when you are very comfortable with programming, Live Tasks can really help with the exploration phase of many projects but they are just the beginning of your journey into a larger world. For more complicated workflows such as [Classification](https://uk.mathworks.com/help/stats/classificationlearner-app.html), [Video Labelling](https://uk.mathworks.com/help/vision/ref/videolabeler-app.html) and [Deep Learning Network design](https://uk.mathworks.com/help/deeplearning/ref/deepnetworkdesigner-app.html), MATLAB and its ecosystem of toolboxes have a [large number of fully featured apps](https://uk.mathworks.com/help/referencelist.html?type=app), often including code generation. 
 
