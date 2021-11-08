@@ -1,6 +1,6 @@
 # The art of coding without coding with MATLAB Live tasks
 
-You're going about your day in the lab, analysing and collecting data, writing papers and drinking coffee when your PI sends you a message.
+You're going about your day in the lab, analysing and collecting data, writing papers and drinking coffee when your PI sends you a message with some data attached: [signaldata.csv](./signaldata.csv)
 
 ![](./yourtask.png)
 
