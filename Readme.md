@@ -14,7 +14,7 @@ uh oh!
 
 When someone has invested a lot of time into learning a computational tool, telling them that it is a bad tool and that they should do something else entirely is not necessarily helpful.  Even if you are right, all you've really done is given them a set of new problems.  In this case one of those new problems is **learn to code**.  
 
-'**Learn to code**' is good advice but its difficulty should not be underestimated.  Learning to code is a time-consuming affair (some might say never-ending) and in an ideal world we would always be productive while learning.  
+'**Learn to code**' is good advice but its difficulty should not be underestimated. Learning to code is a time-consuming affair (some might say never-ending) and in an ideal world we would always be productive while learning.  
 
 The MATLAB ecosystem supports you at every level of your programming career, even when you've never written a single line of code in your life. 
 
